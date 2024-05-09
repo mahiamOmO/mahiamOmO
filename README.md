@@ -1,13 +1,16 @@
-- 👋 Hi, I’m @mahiamOmO
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @mahiamOmO!
 
-<!---
-mahiamOmO/mahiamOmO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in web development, data science, and open source projects.
+
+🌱 I’m currently learning React.js and machine learning algorithms.
+
+💞️ I’m looking to collaborate on any projects related to web development or data science.
+
+📫 You can reach me on GitHub at github.com/mahiamOmO. Let's connect and collaborate!
+
+
+
+
 
 
 
