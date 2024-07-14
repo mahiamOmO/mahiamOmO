@@ -1,7 +1,9 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.iohttps://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966
+
 <h1 align="center">Hi 👋, I'm Mahia Akter Momo</h1>
 <h3 align="center">A passionate Frontend developer.</h3>
 
-<img align="right" alt="coding" width = "400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahiamomo&label=Profile%20views&color=0e75b6&style=flat" alt="mahiamomo" /> </p>
@@ -54,4 +56,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahiamomo&show_icons=true&locale=en" alt="mahiamomo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahiamomo&" alt="mahiamomo" /></p>
-
