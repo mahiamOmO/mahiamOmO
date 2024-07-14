@@ -1,6 +1,6 @@
 ![logo](https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966)
 <h1 align="center">Hi 👋, I'm Mahia Akter Momo</h1>
-<h3 align="center">A passionate Frontend developer.</h3>
+<h3 align="center">A passionate Web developer.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
