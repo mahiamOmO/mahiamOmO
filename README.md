@@ -4,6 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mahia+Momo!;" />
 </h1>
 
+# 💫 About Me:
+  🎓 I’m currently studying Computer Science and Engineering (CSE) at the University of Asia Pacific<br><br> 🔭 I’m currently working on Smith Portfolio<br><br>🌱 I’m currently learning Python,Django,Reactjs,Taildwind CSS,Nextjs<br><br>👯 I’m looking to collaborate on Personal Portfolio<br><br>🤝 I’m looking for help with Online Learning Platform<br><br>👨‍💻 All of my projects are available at http://mahiamomo12.great-site.net/<br><br>💬 Ask me about html,css,javascript<br><br>📫 How to reach me mahiamomo12@gmail.com<br><br>⚡ Fun fact I'm Lazy but Smart 
+
+
+
 
    <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
@@ -14,11 +19,6 @@
   
   <br/><br/><br/>
 </div>
-
-
-# 💫 About Me:
-  🎓 I’m currently studying Computer Science and Engineering (CSE) at the University of Asia Pacific<br><br> 🔭 I’m currently working on Smith Portfolio<br><br>🌱 I’m currently learning Python,Django,Reactjs,Taildwind CSS,Nextjs<br><br>👯 I’m looking to collaborate on Personal Portfolio<br><br>🤝 I’m looking for help with Online Learning Platform<br><br>👨‍💻 All of my projects are available at http://mahiamomo12.great-site.net/<br><br>💬 Ask me about html,css,javascript<br><br>📫 How to reach me mahiamomo12@gmail.com<br><br>⚡ Fun fact I'm Lazy but Smart 
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mahiiiiiaaa) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mahia.momo.12/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___mahiiiiaaaa____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahiamomo12/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mahiamomo12) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/mahiiii_Yaa12) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mahiiiYaa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mahia_momo12) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@mahiamomo12) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Mahia-Momo) 
