@@ -1,5 +1,8 @@
 ![logo](https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966)
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+
+
 
 # 💫 About Me:
   🎓 I’m currently studying Computer Science and Engineering (CSE) at the University of Asia Pacific<br><br> 🔭 I’m currently working on Smith Portfolio<br><br>🌱 I’m currently learning Python,Django,Reactjs,Taildwind CSS,Nextjs<br><br>👯 I’m looking to collaborate on Personal Portfolio<br><br>🤝 I’m looking for help with Online Learning Platform<br><br>👨‍💻 All of my projects are available at http://mahiamomo12.great-site.net/<br><br>💬 Ask me about html,css,javascript<br><br>📫 How to reach me mahiamomo12@gmail.com<br><br>⚡ Fun fact I'm Lazy but Smart 
