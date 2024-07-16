@@ -1,4 +1,4 @@
-![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![logo](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 
    <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
  <h1 align="center">
