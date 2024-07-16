@@ -3,7 +3,6 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 
-
 # 💫 About Me:
   🎓 I’m currently studying Computer Science and Engineering (CSE) at the University of Asia Pacific<br><br> 🔭 I’m currently working on Smith Portfolio<br><br>🌱 I’m currently learning Python,Django,Reactjs,Taildwind CSS,Nextjs<br><br>👯 I’m looking to collaborate on Personal Portfolio<br><br>🤝 I’m looking for help with Online Learning Platform<br><br>👨‍💻 All of my projects are available at http://mahiamomo12.great-site.net/<br><br>💬 Ask me about html,css,javascript<br><br>📫 How to reach me mahiamomo12@gmail.com<br><br>⚡ Fun fact I'm Lazy but Smart 
 
@@ -31,3 +30,4 @@
 [![](https://visitcount.itsvg.in/api?id=mahiamOmO&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
