@@ -39,10 +39,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mahiamomo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mahiamomo" /></a></p><br><br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
-
