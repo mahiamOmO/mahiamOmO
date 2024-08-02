@@ -42,7 +42,22 @@
 <hr/>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mahiiiiiaaa) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mahia.momo.12/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___mahiiiiaaaa____) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mahiamomo12) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/mahiiii_Yaa12) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mahiiiYaa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mahia_momo12) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Mahia-Momo) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mahiiiiiaaa) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mahia.momo.12/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___mahiiiiaaaa____) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/mahiiii_Yaa12) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mahia_momo12) 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Mahia-Momo) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/mahia_momo/) 
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23D9A72D.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/mahia_momo)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%234765A2.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/mahia_momo)
+[![Kattis](https://img.shields.io/badge/Kattis-%23A2B5D6.svg?logo=Kattis&logoColor=white)](https://open.kattis.com/users/mahia_momo)
+[![StopTalk](https://img.shields.io/badge/StopTalk-%23F06C6C.svg?logo=StopTalk&logoColor=white)](https://stoptalk.io/mahia_momo)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2315B6A4.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mahia_momo)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-%23F6A01D.svg?logo=HackerEarth&logoColor=white)](https://www.hackerearth.com/@mahia_momo)
+[![UVa](https://img.shields.io/badge/UVa-%234D4D4D.svg?logo=UVa&logoColor=white)](https://uva.onlinejudge.org/index.php?option=onlinejudge&Itemid=8&category=167)
+[![SPOJ](https://img.shields.io/badge/SPOJ-%230074C1.svg?logo=SPOJ&logoColor=white)](https://www.spoj.com/users/mahia_momo)
+
 
 # 💻 Tech Stack:
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
