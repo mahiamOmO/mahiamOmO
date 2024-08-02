@@ -1,5 +1,4 @@
----
-[![](https://visitcount.itsvg.in/api?id=mahiamOmO&icon=6&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahiamOmO&label=Profile%20views&color=0e75b6&style=flat" alt="mahiamOmO" /> </p>
  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mahia+Momo!;" />
 </h1>
