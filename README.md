@@ -84,6 +84,20 @@
 <hr/>
 
 <br/>
+### Leetcode
+  <div align="center">
+
+  ![LeetCode Stats](https://leetcode.card.workers.dev/mahia12?theme=auto&font=baloo&extension=null)
+
+  </div>
+
+  ### Codeforces
+  <div align="center">
+
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mahiamOmO)
+
+  </div>
+
 
 
 ## 🏆 GitHub Trophies
