@@ -52,7 +52,6 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23D9A72D.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/mahia_momo)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%234765A2.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/mahiamOmO)
 [![Kattis](https://img.shields.io/badge/Kattis-%23A2B5D6.svg?logo=Kattis&logoColor=white)](https://open.kattis.com/users/mahia-momo)
-[![StopTalk](https://img.shields.io/badge/StopTalk-%23F06C6C.svg?logo=StopTalk&logoColor=white)](https://stoptalk.io/mahia_momo)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2315B6A4.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/mahiamOmO)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-%23F6A01D.svg?logo=HackerEarth&logoColor=white)](https://www.hackerearth.com/@mahia_momo)
 [![UVa](https://img.shields.io/badge/UVa-%234D4D4D.svg?logo=UVa&logoColor=white)](https://uva.onlinejudge.org/index.php?option=onlinejudge&Itemid=8&category=167)
