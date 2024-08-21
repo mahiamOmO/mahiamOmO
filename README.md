@@ -5,7 +5,7 @@
 
    <img align="right" alt="coding" width="400" src="https://nextdayanimations.com/wp-content/uploads/2022/02/typing.gif">
 
-<h3 align="center"> A Computer Engineer</h3> 
+<h3 align="center"> A Frontend Developer</h3> 
 
 <br/>
 
