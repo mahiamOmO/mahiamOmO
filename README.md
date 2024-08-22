@@ -63,8 +63,10 @@
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # 📚 My Blog posts
-- [Dev.to - Use Wakatime](https://dev.to/mahiamomo/use-wakatime-and-initialize-your-coding-time-5h6k)
-- - [Dev.to - Use Wakatime](https://dev.to/mahiamomo/boosting-team-productivity-with-wakatime-a-comprehensive-project-overview-2b72?fbclid=IwY2xjawEz_xhleHRuA2FlbQIxMAABHXy-V4Sy-sExDLHXAqSEWKcxOS0JplZgNIfuhqdR7IYRDxzHIQZESWuSqw_aem_9RGTbx8BD9CxBuh6GJjNnQ)
+<!-- BLOG-POST-LIST:START -->
+- [use-wakatime-and-initialize-your-coding-time](https://dev.to/mahiamomo/use-wakatime-and-initialize-your-coding-time-5h6k)
+-  [boosting-team-productivity-with-wakatime-a-comprehensive-project-overview](https://dev.to/mahiamomo/boosting-team-productivity-with-wakatime-a-comprehensive-project-overview-2b72?fbclid=IwY2xjawEz_xhleHRuA2FlbQIxMAABHXy-V4Sy-sExDLHXAqSEWKcxOS0JplZgNIfuhqdR7IYRDxzHIQZESWuSqw_aem_9RGTbx8BD9CxBuh6GJjNnQ)
+<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
