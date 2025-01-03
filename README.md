@@ -65,9 +65,9 @@
 # 📚 My Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [use-wakatime-and-initialize-your-coding-time](https://dev.to/mahiamomo/use-wakatime-and-initialize-your-coding-time-5h6k)
--  [boosting-team-productivity-with-wakatime-a-comprehensive-project-overview](https://dev.to/mahiamomo/boosting-team-productivity-with-wakatime-a-comprehensive-project-overview-2b72?fbclid=IwY2xjawEz_xhleHRuA2FlbQIxMAABHXy-V4Sy-sExDLHXAqSEWKcxOS0JplZgNIfuhqdR7IYRDxzHIQZESWuSqw_aem_9RGTbx8BD9CxBuh6GJjNnQ)
 - [schizophrenia-is-a-serious-mental-health-condition-and-the-experiences-of-hallucinations](https://medium.com/@mahiamomo12/schizophrenia-is-a-serious-mental-health-condition-and-the-experiences-of-hallucinations-fae51d73e4d1)
-- [তরুণ উদ্যোক্তা এবং স্টার্টআপ: আমার কল্পনার জগতে একটি যাত্রা](https://dev.to/mahiamomo/trunn-udyoktaa-ebn-sttaarttaap-aamaar-klpnaar-jgte-ektti-yaatraa-408m)
+- ["How I Hacked My Brain to Crave Coding Every Day"](https://mahiamomo.hashnode.dev/how-i-hacked-my-brain-to-crave-coding-every-day)
+- ["16 Essential Qualities That Prove You Are a Skilled Programmer”](https://mahiamomo.hashnode.dev/16-essential-qualities-that-prove-you-are-a-skilled-programmer)
 - ["Does Sass Offer the Features of a Programming Language?"](https://dev.to/mahiamomo/is-saas-giving-us-the-flavour-of-programming-language-2jo4)
 <!-- BLOG-POST-LIST:END -->       <a href="https://app.daily.dev/mahiamomo"><img src="https://api.daily.dev/devcards/v2/IpxMFimY50aNXRMaBWGbD.png?type=default&r=3yw" width="356" alt="Mahia  Momo's Dev Card"/></a>
 
