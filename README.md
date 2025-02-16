@@ -65,7 +65,7 @@
 # 📚 My Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [use-wakatime-and-initialize-your-coding-time](https://dev.to/mahiamomo/use-wakatime-and-initialize-your-coding-time-5h6k)
-- [schizophrenia-is-a-serious-mental-health-condition-and-the-experiences-of-hallucinations](https://medium.com/@mahiamomo12/schizophrenia-is-a-serious-mental-health-condition-and-the-experiences-of-hallucinations-fae51d73e4d1)
+- [DOM কী? DOM নিয়ে কিছু মৌলিক ধারণা !](https://medium.com/@mahiamomo12/dom-%E0%A6%95%E0%A7%80-dom-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%9B%E0%A7%81-%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A6%A5%E0%A6%BE-b009b4427f0c)
 - ["How I Hacked My Brain to Crave Coding Every Day"](https://mahiamomo.hashnode.dev/how-i-hacked-my-brain-to-crave-coding-every-day)
 - ["16 Essential Qualities That Prove You Are a Skilled Programmer”](https://mahiamomo.hashnode.dev/16-essential-qualities-that-prove-you-are-a-skilled-programmer)
 - ["Does Sass Offer the Features of a Programming Language?"](https://dev.to/mahiamomo/is-saas-giving-us-the-flavour-of-programming-language-2jo4)
