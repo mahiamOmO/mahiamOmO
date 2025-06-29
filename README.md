@@ -47,6 +47,8 @@
 </div>
 
  <!-- About Me -->
+ 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Skill Section -->
 
@@ -81,8 +83,9 @@
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
-
   
+
+
 
 <!-- Skill Section -->
 
@@ -131,6 +134,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
 
 <div align="center">
   
