@@ -14,13 +14,15 @@
   </a>
 </p>
 
- 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+a+Computer+Science+Student+;I+am+also+a+Frontend+Developer+Technical+Writer;Love+to+explore+tech+and+write+blogs)](https://git.io/typing-svg)
+ <div align="center">
+   
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+a+Computer+Science+Student+;I+am+also+a+Frontend+Developer+;Technical+Writer+;Love+to+explore+tech+and+write+blogs)](https://git.io/typing-svg)
 
 <img align="right" alt="coding" width="400" src="https://nextdayanimations.com/wp-content/uploads/2022/02/typing.gif">
 
 
 <!-- About Me -->
+
 <p align="left">
 
 - 🎓 I’m studying Computer Science and Engineering (CSE).<br>
@@ -28,7 +30,7 @@
 - 💻 I’m currently learning <b>Data Structures & Algorithms (DSA) with C++</b>
 - 👩‍💻 Right now, I’m focused on <b>Frontend development</b> and writing technical articles.<br>
 - 💬 Ask me about <b>HTML, CSS, JavaScript, or anything tech-related</b>.<br>
- -  ⚡ Fun fact: <i>I'm lazy but smart</i> 😆.
+-  ⚡ Fun fact: <i>I'm lazy but smart</i> 😆.
 </p>
 
 <div align="center">
@@ -86,8 +88,6 @@
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
   
-
-
 
 <!-- Skill Section -->
 
