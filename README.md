@@ -89,24 +89,33 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+## 📞 Connect with me
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mahiiiiiaaa)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mahia.momo.12/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___mahiiiiaaaa____)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/mahiiii_Yaa12)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mahia_momo12)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Mahia-Momo)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/mahia12/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23D9A72D.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/mahia_momo)
-[![Codeforces](https://img.shields.io/badge/Codeforces-%234765A2.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/mahiamOmO)
-[![Kattis](https://img.shields.io/badge/Kattis-%23A2B5D6.svg?logo=Kattis&logoColor=white)](https://open.kattis.com/users/mahia-momo)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2315B6A4.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/mahiamOmO)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-%23F6A01D.svg?logo=HackerEarth&logoColor=white)](https://www.hackerearth.com/@mahia_momo)
-[![UVa](https://img.shields.io/badge/UVa-%234D4D4D.svg?logo=UVa&logoColor=white)](https://uva.onlinejudge.org/index.php?option=onlinejudge&Itemid=8&category=167)
-[![SPOJ](https://img.shields.io/badge/SPOJ-%230074C1.svg?logo=SPOJ&logoColor=white)](https://www.spoj.com/users/mahiamomo/)
-[![StopStalk](https://img.shields.io/badge/StopStalk-%23F06C6C.svg?logo=StopTalk&logoColor=white)](https://www.stopstalk.com/user/profile/mahiamomo)
-[![UHunt](https://img.shields.io/badge/UHunt-%23F06C6C.svg?logo=StopTalk&logoColor=white)](https://uhunt.onlinejudge.org/id/1627020)
+<p align="center">
+  <a href="https://facebook.com/mahia.momo.12" title="Facebook Profile">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="30" alt="facebook logo" />
+  </a>
+  <a href="https://instagram.com/___mahiiiiaaaa____" title="Instagram Profile">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo" />
+  </a>
+  <a href="https://twitter.com/mahia_momo12" title="Twitter Profile">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo" />
+  </a>
+  <a href="https://youtube.com/channel/UC7AQeCEbjh6J7vX4FXn3O1g" title="YouTube Channel">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo" />
+  </a>
+  <a href="https://linktr.ee/mahiamomo12" title="Linktree Profile">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="42" height="30" alt="linktree logo" />
+  </a>
+  <a href="https://discord.gg/mahiiiiiaaa" title="Discord Server">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" width="92" height="30" alt="discord logo" />
+  </a>
+  <a href="https://www.stopstalk.com/user/profile/mahiamomo" title="StopStalk Profile">
+    <img src="https://img.shields.io/badge/StopStalk-%23F06C6C.svg?logo=StopTalk&logoColor=white" width="92" height="30" alt="stopstalk logo" />
+</p>
+
+
+---
 
 <picture>
   <source
