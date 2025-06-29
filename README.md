@@ -1,7 +1,13 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahiamOmO&label=Profile%20views&color=0e75b6&style=flat" alt="mahiamOmO" /> </p>
+<p align="center">
+  <img src="images/header.png" alt="Header Image"/>
+</p>
  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mahia+Akter+Momo!;" />
 </h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahiamOmO&label=Profile%20views&color=0e75b6&style=flat" alt="mahiamOmO" />
+</p>
 <p align="center">
   <a href="https://wakatime.com/@24cf1509-dfd7-4d4f-a090-e73a282d3353">
     <img src="https://wakatime.com/badge/user/24cf1509-dfd7-4d4f-a090-e73a282d3353.svg" alt="Wakatime Time" />
@@ -10,41 +16,79 @@
 
    <img align="right" alt="coding" width="400" src="https://nextdayanimations.com/wp-content/uploads/2022/02/typing.gif">
 
-<h3 align="center"> A Frontend Developer</h3> 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+a+Computer+Science+Student+;I+am+also+a+Frontend+Developer+Technical+Writer;Love+to+explore+tech+and+write+blogs)](https://git.io/typing-svg)
 
-<br/>
+<!-- About Me -->
+<p align="left">
+
+- 🎓 I’m studying Computer Science and Engineering (CSE).<br>
+- 🌱 I’m exploring in depth full stack webdevelopment 😁
+- 💻 I’m currently learning <b>Data Structures & Algorithms (DSA) with C++</b>
+- 👩‍💻 Right now, I’m focused on <b>Frontend development</b> and writing technical articles.<br>
+- 💬 Ask me about <b>HTML, CSS, JavaScript, or anything tech-related</b>.<br>
+ -  ⚡ Fun fact: <i>I'm lazy but smart</i> 😆.
+</p>
 
 <div align="center">
+  <!-- Medium Badge -->
+  <a href="https://medium.com/@sumontasaha80" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen?style=for-the-badge&logo=medium&logoColor=white" width="230" height="35" alt="Medium Blog" />
+  </a>
 
- 🎓 I’m currently studying Computer Science and Engineering (CSE).
-
- 🔭 I’m currently working on **Smith Portfolio**
- 
- 🌱 I’m currently learning **python, django, react**
-
-💬 Ask me about **html, css, Javascript ... or anything**
-
-⚡ Fun fact **I'm Lazy but Smart**
-
- </div>
-
- <div align="center"> 
+  <!-- Gmail Badge -->
   <a href="mailto:mahiamomo12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/mahiamomo12" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="35" alt="Gmail" />
   </a>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git"/>
-    <img src="https://skillicons.dev/icons?i=javascript,c,"/><br>
+  <!-- LinkedIn Badge -->
+  <a href="https://linkedin.com/in/mahiamomo12" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+  </a>
 </div>
 
-<br/>
-<hr/>
+ <!-- About Me -->
+
+<!-- Skill Section -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
+
+<!-- Banners 4th Phase : SpiderMan -->
+<p align = 'right'>
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
+</p>
+<!-- Banners 4th Phase : SpiderMan -->
+
+#### 🦖 Competitive Programming
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
+
+#### 📚 Frontend Development & Frameworks
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
+
+
+#### 🚦 Version Control & Documentation Tools
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
+
+  
+
+<!-- Skill Section -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mahiiiiiaaa)
@@ -87,12 +131,10 @@
   <br/>
   <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mahiamomo&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
 </div>
+<!-- Activity Animation -->
 
-<br/><br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<hr/>
-
-<br/>
 
   <table>
   <tr>
@@ -110,10 +152,18 @@
     </td>
   </tr>
   </table>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Contribution Stack -->
+<h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
 
+<!-- ⚡ GitHub Activity Graph ⚡ -->
 
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahiamOmO&theme=react&color=00b7a8&line=00b7a8&point=007acc&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  <!-- Footer -->
 <p align='center'>
@@ -166,27 +216,29 @@
 
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="coding gif" width="400"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Blog Section -->
 
 
+<div align="center">
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mahiamOmO&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<div align="center">
-<a href="https://www.buymeacoffee.com/sumontasahi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-</div>
+<a href="https://www.buymeacoffee.com/sumontasahi">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+</a>
+
+</div> 
 
 <div align="center">
  
 Donate if you wish to support 💗: 
-**[[Bkash - Rocket](https://forms.gle/osWQmMzD166o2LdS7)] [[Buy Me a Book](https://www.buymeacoffee.com/sumontasahi)]**
+**[[Buy Me a Book](https://www.buymeacoffee.com/mahiamOmO)]**
 
 </div>
 
