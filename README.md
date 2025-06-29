@@ -88,7 +88,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
+<div align="center">
+  
 ## 📞 Connect with me
 
 <p align="center">
@@ -132,7 +133,8 @@
   />
 </picture>
 
-
+<div align="center">
+  
 # ⚡Git Stats ⚡
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mahiamomo&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
