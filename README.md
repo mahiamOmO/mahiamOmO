@@ -2,6 +2,11 @@
  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mahia+Akter+Momo!;" />
 </h1>
+<p align="center">
+  <a href="https://wakatime.com/@24cf1509-dfd7-4d4f-a090-e73a282d3353">
+    <img src="https://wakatime.com/badge/user/24cf1509-dfd7-4d4f-a090-e73a282d3353.svg" alt="Wakatime Time" />
+  </a>
+</p>
 
    <img align="right" alt="coding" width="400" src="https://nextdayanimations.com/wp-content/uploads/2022/02/typing.gif">
 
