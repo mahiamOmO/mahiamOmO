@@ -31,7 +31,7 @@
 
 <div align="center">
   <!-- Medium Badge -->
-  <a href="https://medium.com/@sumontasaha80" target="_blank">
+  <a href="https://medium.com/@mahiamomo12" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen?style=for-the-badge&logo=medium&logoColor=white" width="230" height="35" alt="Medium Blog" />
   </a>
 
@@ -115,8 +115,7 @@
     <img src="https://img.shields.io/badge/StopStalk-%23F06C6C.svg?logo=StopTalk&logoColor=white" width="92" height="30" alt="stopstalk logo" />
 </p>
 
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <picture>
   <source
