@@ -64,19 +64,6 @@
 [![StopStalk](https://img.shields.io/badge/StopStalk-%23F06C6C.svg?logo=StopTalk&logoColor=white)](https://www.stopstalk.com/user/profile/mahiamomo)
 [![UHunt](https://img.shields.io/badge/UHunt-%23F06C6C.svg?logo=StopTalk&logoColor=white)](https://uhunt.onlinejudge.org/id/1627020)
 
-# 💻 Tech Stack:
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-# 📚 My Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [use-wakatime-and-initialize-your-coding-time](https://dev.to/mahiamomo/use-wakatime-and-initialize-your-coding-time-5h6k)
-- [DOM কী? DOM নিয়ে কিছু মৌলিক ধারণা !](https://medium.com/@mahiamomo12/dom-%E0%A6%95%E0%A7%80-dom-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%9B%E0%A7%81-%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A6%A5%E0%A6%BE-b009b4427f0c)
-- ["How I Hacked My Brain to Crave Coding Every Day"](https://mahiamomo.hashnode.dev/how-i-hacked-my-brain-to-crave-coding-every-day)
-- ["16 Essential Qualities That Prove You Are a Skilled Programmer”](https://mahiamomo.hashnode.dev/16-essential-qualities-that-prove-you-are-a-skilled-programmer)
-- ["Does Sass Offer the Features of a Programming Language?"](https://dev.to/mahiamomo/is-saas-giving-us-the-flavour-of-programming-language-2jo4)
-<!-- BLOG-POST-LIST:END -->       <a href="https://app.daily.dev/mahiamomo"><img src="https://api.daily.dev/devcards/v2/IpxMFimY50aNXRMaBWGbD.png?type=default&r=3yw" width="356" alt="Mahia  Momo's Dev Card"/></a>
-
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -91,6 +78,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
 
 # ⚡Git Stats ⚡
 <div align="center">
@@ -125,16 +113,81 @@
 
 
 
+
+
+ <!-- Footer -->
+<p align='center'>
+<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  >
+</p>
+<!-- Footer -->
+
+<!-- Blog Section -->
+
+<div align="center">
+
+<h2>✍🏻 Read My Blogs on [ 
+<a href="https://medium.com/@mahiamomo12" target="_blank" rel="noopener noreferrer">Medium</a>, 
+<a href="https://dev.to/mahiamomo" target="_blank" rel="noopener noreferrer">Dev.to</a>, 
+<a href="https://mahiamomo.hashnode.dev" target="_blank" rel="noopener noreferrer">Hashnode</a>
+]</h2>
+
+<table border="0" width="100%" style="max-width: 900px;">
+  <tr valign="top">
+    <td width="60%" style="padding-right: 20px;">
+      <a href="https://medium.com/@mahiamomo12" target="_blank" rel="noopener noreferrer">
+        <img src="images/blog.png" alt="Medium Banner" width="100%" style="border-radius: 8px;"/>
+      </a>
+    </td>
+    <td width="40%">
+      <a href="https://app.daily.dev/mahiamomo" target="_blank" rel="noopener noreferrer">
+        <img src="https://api.daily.dev/devcards/v2/IpxMFimY50aNXRMaBWGbD.png?type=default&r=3yw" alt="Mahia Momo's Dev Card" width="100%" style="border-radius: 8px;" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+| **Blog Name** | **Platform** | **Link** |
+|:-------------:|:------------:|:--------:|
+| Use Wakatime and Initialize Your Coding Time | Dev.to | [👉 Read](https://dev.to/mahiamomo/use-wakatime-and-initialize-your-coding-time-5h6k) |
+| DOM কী? DOM নিয়ে কিছু মৌলিক ধারণা ! | Medium | [👉 Read](https://medium.com/@mahiamomo12/dom-%E0%A6%95%E0%A7%80-dom-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%9B%E0%A7%81-%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A6%A5%E0%A6%BE-b009b4427f0c) |
+| How I Hacked My Brain to Crave Coding Every Day | Hashnode | [👉 Read](https://mahiamomo.hashnode.dev/how-i-hacked-my-brain-to-crave-coding-every-day) |
+| 16 Essential Qualities That Prove You Are a Skilled Programmer | Hashnode | [👉 Read](https://mahiamomo.hashnode.dev/16-essential-qualities-that-prove-you-are-a-skilled-programmer) |
+| Does Sass Offer the Features of a Programming Language? | Dev.to | [👉 Read](https://dev.to/mahiamomo/is-saas-giving-us-the-flavour-of-programming-language-2jo4) |
+
+<!-- BLOG-POST-LIST:START -->
+- [use-wakatime-and-initialize-your-coding-time](https://dev.to/mahiamomo/use-wakatime-and-initialize-your-coding-time-5h6k)
+- [DOM কী? DOM নিয়ে কিছু মৌলিক ধারণা !](https://medium.com/@mahiamomo12/dom-%E0%A6%95%E0%A7%80-dom-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%9B%E0%A7%81-%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A6%A5%E0%A6%BE-b009b4427f0c)
+- ["How I Hacked My Brain to Crave Coding Every Day"](https://mahiamomo.hashnode.dev/how-i-hacked-my-brain-to-crave-coding-every-day)
+- ["16 Essential Qualities That Prove You Are a Skilled Programmer”](https://mahiamomo.hashnode.dev/16-essential-qualities-that-prove-you-are-a-skilled-programmer)
+- ["Does Sass Offer the Features of a Programming Language?"](https://dev.to/mahiamomo/is-saas-giving-us-the-flavour-of-programming-language-2jo4)
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="coding gif" width="400"/>
+</p>
+
+<!-- Blog Section -->
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mahiamOmO&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo 
+<div align="center">
+<a href="https://www.buymeacoffee.com/sumontasahi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+</div>
 
-![](https://github-contributor-stats.vercel.app/api?username=mahiamOmO&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+<div align="center">
+ 
+Donate if you wish to support 💗: 
+**[[Bkash - Rocket](https://forms.gle/osWQmMzD166o2LdS7)] [[Buy Me a Book](https://www.buymeacoffee.com/sumontasahi)]**
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mahiamomo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mahiamomo" /></a></p><br><br>
+</div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
