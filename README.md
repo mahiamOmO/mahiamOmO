@@ -14,9 +14,11 @@
   </a>
 </p>
 
-   <img align="right" alt="coding" width="400" src="https://nextdayanimations.com/wp-content/uploads/2022/02/typing.gif">
-
+ 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+a+Computer+Science+Student+;I+am+also+a+Frontend+Developer+Technical+Writer;Love+to+explore+tech+and+write+blogs)](https://git.io/typing-svg)
+
+<img align="right" alt="coding" width="400" src="https://nextdayanimations.com/wp-content/uploads/2022/02/typing.gif">
+
 
 <!-- About Me -->
 <p align="left">
