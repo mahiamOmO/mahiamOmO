@@ -107,9 +107,9 @@
   <a href="https://twitter.com/mahia_momo12" title="Twitter Profile">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo" />
   </a>
-  <a href="https://youtube.com/channel/UC7AQeCEbjh6J7vX4FXn3O1g" title="YouTube Channel">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo" />
-  </a>
+ <a href="https://www.youtube.com/@mahiamomo12" title="YouTube Channel">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo" />
+</a>
   <a href="https://linktr.ee/mahiamomo12" title="Linktree Profile">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="42" height="30" alt="linktree logo" />
   </a>
@@ -216,11 +216,11 @@
 
 | **Blog Name** | **Platform** | **Link** |
 |:-------------:|:------------:|:--------:|
-| Use Wakatime and Initialize Your Coding Time | Dev.to | [👉 Read](https://dev.to/mahiamomo/use-wakatime-and-initialize-your-coding-time-5h6k) |
-| DOM কী? DOM নিয়ে কিছু মৌলিক ধারণা ! | Medium | [👉 Read](https://medium.com/@mahiamomo12/dom-%E0%A6%95%E0%A7%80-dom-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%9B%E0%A7%81-%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A6%A5%E0%A6%BE-b009b4427f0c) |
-| How I Hacked My Brain to Crave Coding Every Day | Hashnode | [👉 Read](https://mahiamomo.hashnode.dev/how-i-hacked-my-brain-to-crave-coding-every-day) |
-| 16 Essential Qualities That Prove You Are a Skilled Programmer | Hashnode | [👉 Read](https://mahiamomo.hashnode.dev/16-essential-qualities-that-prove-you-are-a-skilled-programmer) |
-| Does Sass Offer the Features of a Programming Language? | Dev.to | [👉 Read](https://dev.to/mahiamomo/is-saas-giving-us-the-flavour-of-programming-language-2jo4) |
+| Use Wakatime and Initialize Your Coding Time | <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="Dev.to" width="20"/> Dev.to | [👉 Read](https://dev.to/mahiamomo/use-wakatime-and-initialize-your-coding-time-5h6k) |
+| DOM কী? DOM নিয়ে কিছু মৌলিক ধারণা ! | <img src="https://cdn.worldvectorlogo.com/logos/medium-1.svg" alt="Medium" width="20"/> Medium | [👉 Read](https://medium.com/@mahiamomo12/dom-%E0%A6%95%E0%A7%80-dom-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%9B%E0%A7%81-%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A6%A5%E0%A6%BE-b009b4427f0c) |
+| How I Hacked My Brain to Crave Coding Every Day | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="Hashnode" width="20"/> Hashnode | [👉 Read](https://mahiamomo.hashnode.dev/how-i-hacked-my-brain-to-crave-coding-every-day) |
+| 16 Essential Qualities That Prove You Are a Skilled Programmer | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="Hashnode" width="20"/> Hashnode | [👉 Read](https://mahiamomo.hashnode.dev/16-essential-qualities-that-prove-you-are-a-skilled-programmer) |
+| Does Sass Offer the Features of a Programming Language? | <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="Dev.to" width="20"/> Dev.to | [👉 Read](https://dev.to/mahiamomo/is-saas-giving-us-the-flavour-of-programming-language-2jo4) |
 
 </div>
 
