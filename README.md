@@ -79,21 +79,26 @@
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
 
+#### ⛏️ Backend Development & Database Services
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg)
+
 
 #### 🚦 Version Control & Documentation Tools
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
-  
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
 
-<!-- Skill Section -->
+#### ☁️ Hosting Platforms
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
 
-<div align="center">
   
 ## 📞 Connect with me
 
