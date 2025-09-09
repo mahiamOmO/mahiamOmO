@@ -93,11 +93,12 @@
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
 
-#### ☁️ Hosting Platforms
+#### ☁️ Hosting Platforms  
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
+
 
   
 ## 📞 Connect with me
