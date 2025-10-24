@@ -74,12 +74,18 @@
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+
 
 #### ⛏️ Backend Development & Database Services
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg)
+
 
 #### 🚦 Version Control Deploy & Documentation Tools
 
@@ -89,6 +95,8 @@
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg)
+
 
   
 ## 📞 Connect with me
