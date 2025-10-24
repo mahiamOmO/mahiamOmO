@@ -92,7 +92,7 @@
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg)
