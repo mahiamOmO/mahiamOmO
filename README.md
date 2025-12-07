@@ -13,7 +13,7 @@
 
  <div align="center">
    
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+a+Computer+Science+Student+;I+am+also+a+Frontend+Developer+;Technical+Writer+;Love+to+explore+tech+and+write+blogs)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+a+Computer+Science+Student+;I+am+also+doing+Internship+at+Agency+Handy+;Technical+Writer+;Love+to+explore+tech+and+write+blogs)](https://git.io/typing-svg)
 
 <img align="right" alt="coding" width="400" src="https://nextdayanimations.com/wp-content/uploads/2022/02/typing.gif">
 
@@ -23,10 +23,10 @@
 <p align="left">
 
 - 🎓 I’m studying Computer Science and Engineering (CSE).<br>
-- 🌱 I’m exploring in depth full stack webdevelopment 😁
-- 💻 I’m currently learning <b>Data Structures & Algorithms (DSA) with C++</b>
-- 👩‍💻 Right now, I’m focused on <b>Frontend development</b> and writing technical articles.<br>
-- 💬 Ask me about <b>HTML, CSS, JavaScript, or anything tech-related</b>.<br>
+- 🌱 I’m exploring in depth full stack webdevelopment,AI Automation,Software Testing😁
+- 💻 I’m currently learning <b>Data Structures & Algorithms (DSA) with Python</b>
+- 👩‍💻 Right now, I’m focused on <b>AI/Ml</b> and writing technical articles.<br>
+- 💬 Ask me about <b>Fullstack or anything tech-related</b>.<br>
 -  ⚡ Fun fact: <i>I'm lazy but smart</i> 😆.
 </p>
 
@@ -99,6 +99,11 @@
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg)
 
+
+### 🧪 Testing & Quality Assurance
+
+**Tools & Badges:**  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-6DB33F?style=for-the-badge&logo=apachejmeter&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF1E1E?style=for-the-badge&logo=n8n&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
   
 ## 📞 Connect with me
