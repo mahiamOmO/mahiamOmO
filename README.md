@@ -101,8 +101,7 @@
 
 
 ### 🧪 Testing & Quality Assurance
-
-**Tools & Badges:**  
+  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-6DB33F?style=for-the-badge&logo=apachejmeter&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF1E1E?style=for-the-badge&logo=n8n&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
   
