@@ -435,6 +435,72 @@ through multiple Campus Ambassador and Associate roles.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+<!-- Awards & Achievements -->
+
+<h1 align="center">🏆 Awards & Achievements</h1>
+
+<div align="center">
+Recognitions earned through <b>sports excellence, competitive spirit, and academic performance</b>  
+across school and university life.
+</div>
+
+---
+
+<table align="center" width="100%">
+  <tr>
+    <th align="center">Achievement</th>
+    <th align="center">Event / Competition</th>
+    <th align="center">Organizer</th>
+    <th align="center">Position</th>
+    <th align="center">Year</th>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Carrom Champion (Female Singles)</b></td>
+    <td align="center">Intra Department Indoor Games Tournament</td>
+    <td align="center">Sports Club, CSE – UAP</td>
+    <td align="center">🏆 Champion</td>
+    <td align="center">Jan 2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Women’s Cricket Tournament</b></td>
+    <td align="center">Indoor Short Pitch Cricket Tournament</td>
+    <td align="center">Sports Club, CSE – UAP</td>
+    <td align="center">🥈 Runner-up</td>
+    <td align="center">Sep 2023</td>
+  </tr>
+
+  <tr>
+  <td align="center"><b>Primary School Certificate (PSC)</b></td>
+  <td align="center">Academic Excellence</td>
+  <td align="center">Ahmed Bawany Academy School & College</td>
+  <td align="center">🏅 GPA <b>5.00</b> & Prize Winner</td>
+  <td align="center">2012</td>
+</tr>
+
+<tr>
+  <td align="center"><b>Secondary School Certificate (SSC)</b></td>
+  <td align="center">Academic Excellence</td>
+  <td align="center">Ahmed Bawany Academy School & College</td>
+  <td align="center">🏅 GPA <b>5.00</b> & Prize Winner</td>
+  <td align="center">2018</td>
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+![Sports](https://img.shields.io/badge/Sports-Achievement-success?style=for-the-badge)
+![Leadership](https://img.shields.io/badge/Competitive-Spirit-blue?style=for-the-badge)
+![Excellence](https://img.shields.io/badge/Excellence-Awarded-orange?style=for-the-badge)
+
+</div>
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mahiamOmO&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
