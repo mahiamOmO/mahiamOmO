@@ -183,7 +183,6 @@
   </table>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 <!-- Competition Participation  -->
 
 <h1 align="center">🚀 Competition Participation</h1>
@@ -303,6 +302,95 @@ focusing on <b>AI, innovation, problem-solving, and teamwork</b>.
 
 <div align="center">
 
+<!-- Extra-Curricular Activities -->
+
+<h1 align="center">🌟 Extra-Curricular Activities & Leadership</h1>
+
+<div align="center">
+Actively involved in <b>campus leadership, community building, and student advocacy</b>  
+through multiple Campus Ambassador and Associate roles.
+</div>
+
+---
+
+<table align="center" width="100%">
+  <tr>
+    <th align="center">Role</th>
+    <th align="center">Organization</th>
+    <th align="center">Duration</th>
+    <th align="center">Responsibilities & Impact</th>
+    <th align="center">Skills</th>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Campus Ambassador</b></td>
+    <td align="center">Phitron</td>
+    <td align="center">Dec 2025 – Present</td>
+    <td align="center">
+      Promoted programming culture on campus, guided students in starting their coding journey,  
+      organized workshops, shared learning resources, and acted as a bridge between students and Phitron.
+    </td>
+    <td align="center">Leadership · Teamwork · Management · Networking</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Campus Associate</b></td>
+    <td align="center">International Leadership Competition</td>
+    <td align="center">Sep 2024 – Mar 2025</td>
+    <td align="center">
+      Coordinated student engagement activities, supported leadership initiatives,  
+      and facilitated communication between teams.
+    </td>
+    <td align="center">Team Leadership · Corporate Communication · Teamwork</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Campus Ambassador</b></td>
+    <td align="center">English Carnival Bangladesh</td>
+    <td align="center">Sep 2024 – Feb 2025</td>
+    <td align="center">
+      Represented the organization on campus, promoted events,  
+      and encouraged student participation in communication-focused programs.
+    </td>
+    <td align="center">Leadership · Teamwork · Corporate Communication</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Campus Ambassador</b></td>
+    <td align="center">Creative IT Institute</td>
+    <td align="center">Mar 2024 – Dec 2024</td>
+    <td align="center">
+      Raised awareness about skill development programs,  
+      supported workshops, and guided peers toward IT learning paths.
+    </td>
+    <td align="center">Leadership · Teamwork · Corporate Communication</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Campus Ambassador</b></td>
+    <td align="center">Interactive Cares</td>
+    <td align="center">Jul 2023 – Dec 2023</td>
+    <td align="center">
+      Promoted tech learning initiatives, assisted in community outreach,  
+      and helped organize campus-based activities.
+    </td>
+    <td align="center">Leadership · Teamwork · Corporate Communication</td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+![Leadership](https://img.shields.io/badge/Leadership-Experience-success?style=for-the-badge)
+![Campus Ambassador](https://img.shields.io/badge/Campus-Ambassador-blue?style=for-the-badge)
+![Community](https://img.shields.io/badge/Community-Building-orange?style=for-the-badge)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mahiamOmO&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
@@ -315,10 +403,4 @@ focusing on <b>AI, innovation, problem-solving, and teamwork</b>.
 
 </div> 
 
-<div align="center">
- 
-Donate if you wish to support 💗: 
-**[[Buy Me a Book](https://www.buymeacoffee.com/mahiamOmO)]**
-
-</div>
 
