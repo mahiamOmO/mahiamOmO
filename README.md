@@ -164,23 +164,67 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Professional Experience -->
 
-  <table>
+<h1 align="center">💼 Professional Experience</h1>
+
+<div align="center">
+Hands-on experience in <b>AI data processing, web support, and quality assurance</b>  
+through internship and part-time professional roles.
+</div>
+
+---
+
+<table align="center" width="100%">
   <tr>
-    <td align="left">
-      <h3>🌠 Leetcode</h3>
-      <div align="center">
-        <img src="https://leetcode.card.workers.dev/mahia12?theme=auto&font=baloo&extension=null" alt="LeetCode Stats">
-      </div>
+    <th align="center">Role</th>
+    <th align="center">Organization</th>
+    <th align="center">Duration</th>
+    <th align="center">Work & Responsibilities</th>
+    <th align="center">Skills & Experience</th>
+  </tr>
+
+  <tr>
+    <td align="center"><b>AI Data Annotation & Quality</b></td>
+    <td align="center">Agency Handy (Internship)</td>
+    <td align="center">Dec 2025 – Present</td>
+    <td align="center">
+      Supported AI and Machine Learning projects by accurately annotating and reviewing datasets.  
+      Ensured high-quality labeled data for model training and performance improvement.
     </td>
-    <td align="right">
-      <h3>🌌 Codeforces</h3>
-      <div align="center">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mahiamOmO" alt="Codeforces Stats">
-      </div>
+    <td align="center">
+      Artificial Intelligence (AI)<br/>
+      Machine Learning<br/>
+      Data Quality Assurance
     </td>
   </tr>
-  </table>
+
+  <tr>
+    <td align="center"><b>Web & IT Support</b></td>
+    <td align="center">Joykoly Publication (Part-time)</td>
+    <td align="center">Sep 2025 – Oct 2025</td>
+    <td align="center">
+      Provided website and IT support services, assisted in maintaining web platforms,  
+      and ensured smooth content and system operations.
+    </td>
+    <td align="center">
+      Manual Testing<br/>
+      Website Management<br/>
+      Content Management
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+![AI](https://img.shields.io/badge/AI-Experience-blue?style=for-the-badge)
+![Web](https://img.shields.io/badge/Web-IT%20Support-success?style=for-the-badge)
+![QA](https://img.shields.io/badge/Quality-Assurance-orange?style=for-the-badge)
+
+</div>
+
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Competition Participation  -->
