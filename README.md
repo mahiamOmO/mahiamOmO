@@ -368,69 +368,45 @@ through multiple Campus Ambassador and Associate roles.
 
   <tr>
     <td align="center"><b>Campus Ambassador</b></td>
-    <td align="center">Phitron</td>
+    <td align="center"><b>Phitron</b></td>
     <td align="center">Dec 2025 – Present</td>
-    <td align="center">
-      Promoted programming culture on campus, guided students in starting their coding journey,  
-      organized workshops, shared learning resources, and acted as a bridge between students and Phitron.
-    </td>
+    <td align="center">Promoted programming culture, organized workshops, and guided students in coding.</td>
     <td align="center">Leadership · Teamwork · Management · Networking</td>
   </tr>
 
   <tr>
     <td align="center"><b>Campus Associate</b></td>
-    <td align="center">International Leadership Competition</td>
+    <td align="center"><b>International Leadership Competition</b></td>
     <td align="center">Sep 2024 – Mar 2025</td>
-    <td align="center">
-      Coordinated student engagement activities, supported leadership initiatives,  
-      and facilitated communication between teams.
-    </td>
+    <td align="center">Coordinated student activities and facilitated team communication.</td>
     <td align="center">Team Leadership · Corporate Communication · Teamwork</td>
   </tr>
 
   <tr>
     <td align="center"><b>Campus Ambassador</b></td>
-    <td align="center">English Carnival Bangladesh</td>
+    <td align="center"><b>English Carnival Bangladesh</b></td>
     <td align="center">Sep 2024 – Feb 2025</td>
-    <td align="center">
-      Represented the organization on campus, promoted events,  
-      and encouraged student participation in communication-focused programs.
-    </td>
+    <td align="center">Represented events on campus and encouraged student participation.</td>
     <td align="center">Leadership · Teamwork · Corporate Communication</td>
   </tr>
 
   <tr>
     <td align="center"><b>Campus Ambassador</b></td>
-    <td align="center">Creative IT Institute</td>
+    <td align="center"><b>Creative IT Institute</b></td>
     <td align="center">Mar 2024 – Dec 2024</td>
-    <td align="center">
-      Raised awareness about skill development programs,  
-      supported workshops, and guided peers toward IT learning paths.
-    </td>
+    <td align="center">Supported workshops and guided peers toward IT learning programs.</td>
     <td align="center">Leadership · Teamwork · Corporate Communication</td>
   </tr>
 
   <tr>
     <td align="center"><b>Campus Ambassador</b></td>
-    <td align="center">Interactive Cares</td>
+    <td align="center"><b>Interactive Cares</b></td>
     <td align="center">Jul 2023 – Dec 2023</td>
-    <td align="center">
-      Promoted tech learning initiatives, assisted in community outreach,  
-      and helped organize campus-based activities.
-    </td>
+    <td align="center">Promoted tech initiatives and assisted in campus activities.</td>
     <td align="center">Leadership · Teamwork · Corporate Communication</td>
   </tr>
 </table>
 
----
-
-<div align="center">
-
-![Leadership](https://img.shields.io/badge/Leadership-Experience-success?style=for-the-badge)
-![Campus Ambassador](https://img.shields.io/badge/Campus-Ambassador-blue?style=for-the-badge)
-![Community](https://img.shields.io/badge/Community-Building-orange?style=for-the-badge)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
