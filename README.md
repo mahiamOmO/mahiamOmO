@@ -284,21 +284,6 @@ focusing on <b>AI, innovation, problem-solving, and teamwork</b>.
 <a href="https://mahiamomo.hashnode.dev" target="_blank" rel="noopener noreferrer">Hashnode</a>
 ]</h2>
 
-<table border="0" width="100%" style="max-width: 900px;">
-  <tr valign="top">
-    <td width="60%" style="padding-right: 20px;">
-      <a href="https://medium.com/@mahiamomo12" target="_blank" rel="noopener noreferrer">
-        <img src="images/blog.png" alt="Medium Banner" width="100%" style="border-radius: 8px;"/>
-      </a>
-    </td>
-    <td width="40%">
-      <a href="https://app.daily.dev/mahiamomo" target="_blank" rel="noopener noreferrer">
-        <img src="https://api.daily.dev/devcards/v2/IpxMFimY50aNXRMaBWGbD.png?type=default&r=3yw" alt="Mahia Momo's Dev Card" width="100%" style="border-radius: 8px;" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 <br/>
 
 | **Blog Name** | **Platform** | **Link** |
