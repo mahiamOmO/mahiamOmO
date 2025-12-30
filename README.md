@@ -183,16 +183,90 @@
   </table>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Contribution Stack -->
-<h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
 
-<!-- ⚡ GitHub Activity Graph ⚡ -->
+<!-- Competition Participation  -->
+
+<h1 align="center">🚀 Competition Participation</h1>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahiamOmO&theme=react&color=00b7a8&line=00b7a8&point=007acc&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+I actively participate in national and inter-university hackathons,  
+focusing on <b>AI, innovation, problem-solving, and teamwork</b>.
+</div>
+
+---
+
+### 🧠 Hackathon & Contest Highlights
+
+<table align="center" width="100%">
+  <tr>
+    <th align="center">Competition</th>
+    <th align="center">Organizer</th>
+    <th align="center">Team</th>
+    <th align="center">Achievement</th>
+    <th align="center">Date</th>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Solvio AI Hackathon</b></td>
+    <td align="center">Sheba Platform Ltd.</td>
+    <td align="center">NullPointer</td>
+    <td align="center">🏅 Phase 2 Selected<br/>Top <b>394</b> among <b>3,259+</b> teams</td>
+    <td align="center">Nov 2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Technovation25 Hackathon</b></td>
+    <td align="center">Josephite IT Club × Programming Hero</td>
+    <td align="center">BlockX</td>
+    <td align="center">🥇 <b>Top 10</b> among 55 teams<br/>15-hour Hackathon</td>
+    <td align="center">Sep 2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>INNOVATEX 2025</b></td>
+    <td align="center">Software & Hardware Club, UAP</td>
+    <td align="center">Asgardian</td>
+    <td align="center">🔥 <b>Top 20</b> Final Round</td>
+    <td align="center">May 2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>IDEA Season 4.0</b></td>
+    <td align="center">ECDC, University of Asia Pacific</td>
+    <td align="center">Team Innovators</td>
+    <td align="center">💡 <b>Top 10</b> among 42 submissions</td>
+    <td align="center">Apr 2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>MIST Hackathon – Inventious 4.1</b></td>
+    <td align="center">MIST Innovation Club</td>
+    <td align="center">Finalist Team</td>
+    <td align="center">🏆 <b>Finalist Round</b></td>
+    <td align="center">Mar 2025</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>UAP Intra University Collaborative Programming Contest 1.0</b></td>
+    <td align="center">UAP Programming Contest Club</td>
+    <td align="center">Team Participant</td>
+    <td align="center">🎯 Ranked <b>Top 40</b> among <b>70+</b> teams</td>
+    <td align="center">Jan 2024</td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+![AI](https://img.shields.io/badge/AI-Innovation-blue?style=for-the-badge)
+![Hackathon](https://img.shields.io/badge/Hackathon-Enthusiast-orange?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/Team-Player-success?style=for-the-badge)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
  <!-- Footer -->
 <p align='center'>
@@ -263,4 +337,3 @@ Donate if you wish to support 💗:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
