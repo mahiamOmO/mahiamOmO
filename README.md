@@ -89,9 +89,7 @@
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
- 
-  ![FastAPI](https://ziadoua.github.io/m3-Markdown-Badges/badges/FastApi/fastapi2.svg)
-
+  ![FastAPI](https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg)
 
 
 #### 🚦 Version Control Deploy & Documentation Tools
