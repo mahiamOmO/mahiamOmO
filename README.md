@@ -23,7 +23,7 @@
 <font size="5">
 
 - 🎓 I'm studying Computer Science and Engineering (CSE).<br>
-- 🌱I'm exploring in depth **Full Stack Web Development**, **AI Automation**, **Software Testing**. 😁
+- 🌱I'm exploring in depth **Full Stack Web Development**, **AI Automation**, **AI/ML**. 😁
 - 💻 I'm currently learning <b>Data Structures & Algorithms (DSA) with Python</b>
 - 👩‍💻 Right now, I'm focused on <b>AI/Ml</b> and writing technical articles.<br>
 - 💬 Ask me about <b>Fullstack or anything tech-related</b>.<br>
