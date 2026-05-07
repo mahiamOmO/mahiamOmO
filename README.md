@@ -5,7 +5,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahiamOmO&label=Profile%20views&color=0e75b6&style=flat" alt="mahiamOmO" />
 </p>
-  <img align="right" alt="coding" width="400" src="https://nextdayanimations.com/wp-content/uploads/2022/02/typing.gif">
+<h1 align="right"> 
+       <img align="right" alt="coding" width="400" src="https://nextdayanimations.com/wp-content/uploads/2022/02/typing.gif">
+   </h1>
 <p align="center">
   <a href="https://wakatime.com/@24cf1509-dfd7-4d4f-a090-e73a282d3353">
     <img src="https://wakatime.com/badge/user/24cf1509-dfd7-4d4f-a090-e73a282d3353.svg" alt="Wakatime Time" />
@@ -16,7 +18,6 @@
    
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+a+Computer+Science+Student+;I+am+also+doing+Internship+at+Agency+Handy+;Technical+Writer+;Love+to+explore+tech+and+write+blogs)](https://git.io/typing-svg)
 
-<img align="right" alt="coding" width="250" src="images/profile-img.png">
 <!-- About Me -->
 
 <p align="left">
