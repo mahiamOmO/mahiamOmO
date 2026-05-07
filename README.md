@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahiamOmO&label=Profile%20views&color=0e75b6&style=flat" alt="mahiamOmO" />
 </p>
+  <img align="right" alt="coding" width="400" src="https://nextdayanimations.com/wp-content/uploads/2022/02/typing.gif">
 <p align="center">
   <a href="https://wakatime.com/@24cf1509-dfd7-4d4f-a090-e73a282d3353">
     <img src="https://wakatime.com/badge/user/24cf1509-dfd7-4d4f-a090-e73a282d3353.svg" alt="Wakatime Time" />
