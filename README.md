@@ -167,8 +167,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mahiamomo12&theme=tokyonight" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mahiamomo12&theme=tokyonight&layout=compact&langs_count=10&range=last_7_days" alt="WakaTime Stats" />
 </p>
+
 <!-- Professional Experience -->
 
 <h1 align="center">💼 Professional Experience</h1>
