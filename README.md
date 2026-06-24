@@ -167,8 +167,80 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%2035%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 206 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 63 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+🌆 Daytime                423 commits         ████████░░░░░░░░░░░░░░░░░   33.71 % 
+🌃 Evening                614 commits         ████████████░░░░░░░░░░░░░   48.92 % 
+🌙 Night                  104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Tuesday                  135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Wednesday                122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Thursday                 172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Friday                   310 commits         ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+Saturday                 211 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Sunday                   143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+C++                      1 hr 27 mins        █████████████████████████   99.77 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+
+🔥 Editors: 
+VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Udemy-Beginning-Cpp-Progr1 hr 28 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+C                        5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/mahiamOmO/mahiamOmO/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/06/2026 13:44:46 UTC
 <!--END_SECTION:waka-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mahiamomo12&theme=tokyonight" alt="WakaTime Stats" />
