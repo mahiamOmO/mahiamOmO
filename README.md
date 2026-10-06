@@ -1,6 +1,7 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=220&section=header&text=Mahia%20Akter%20Momo&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Machine%20Learning%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20NLP&descSize=16&descAlignY=62&animation=fadeIn" width="100%"/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mahia+Akter+Momo!;" />
+</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=AI+Data+Annotator;Machine+Learning+Engineer;ML+Researcher;Student+Researcher+%40+ELITE+Research+Lab;CSE+Graduate+%40+UAP" alt="typing" />
 <br/><br/>
