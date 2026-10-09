@@ -241,3 +241,4 @@ Platform connecting UAP alumni, students and faculty through profiles and networ
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+
